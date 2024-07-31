@@ -5,3 +5,8 @@
 - 現在インストールしたライブラリ
   - matplot  
   - ipykernel
+
+- カーネルのコマンド
+```
+python -m ipykernel install --user --name newenv --display-name "Jupyter_Sample"
+```
